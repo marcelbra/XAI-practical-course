@@ -1,0 +1,452 @@
+Children can still express themselves using other means
+express	3
+able	3
+wear	3
+children	2
+kids	2
+uniform	2
+want	2
+self-expression	1
+uniforms	1
+outfits	1
+Students	1
+
+School uniform reduces bullying
+school	9
+bullying	8
+uniforms	8
+uniform	4
+help	3
+keeps	2
+prevent	2
+bullied	2
+name	2
+students	2
+kids	2
+
+School uniforms encourage discipline or focus on learning
+uniforms	15
+school	13
+students	9
+focus	7
+learning	5
+concentrate	5
+education	4
+allows	4
+uniform	3
+children	3
+abandon	3
+
+School uniforms saves costs
+uniforms	9
+money	6
+school	5
+cost	4
+burden	4
+uniform	4
+save	3
+School	3
+unneeded	3
+buy	2
+purchase	2
+
+School uniforms create a sense of equality/unity
+school	22
+uniforms	19
+uniform	12
+students	12
+feel	7
+equal	7
+sense	6
+bullying	5
+make	5
+makes	4
+use	4
+
+School uniform is harming the student's self expression
+school	17
+express	15
+uniforms	14
+students	7
+uniform	7
+allow	5
+limit	4
+kids	4
+clothing	3
+wear	3
+children	3
+
+School uniforms are expensive
+school	18
+uniforms	13
+expensive	12
+buy	6
+uniform	5
+afford	3
+parents	3
+very	3
+affordable	2
+financial	2
+n't	2
+
+School uniforms are often uncomfortable/sexist
+uniforms	17
+school	14
+expression	10
+wear	6
+students	5
+freedom	5
+clothing	3
+clothes	3
+dress	3
+express	3
+School	3
+
+School uniform harms learning/creativity
+uniforms	10
+school	8
+students	6
+education	4
+uniform	3
+creativity	3
+great	2
+abandon	2
+behavior	2
+student	2
+creative	2
+
+School uniforms increase conformity or harm individuality
+uniforms	18
+school	18
+individuality	11
+uniform	9
+students	7
+School	6
+abandon	6
+wear	4
+same	4
+allow	4
+clothing	3
+
+Gun control is ineffective
+shot	1
+arms	1
+able	1
+get	1
+bear	1
+weapons	1
+amendment	1
+better	1
+built	1
+outdated	1
+woefully	1
+
+Gun ownership is a right
+right	86
+bear	74
+arms	73
+keep	32
+people	14
+constitutional	13
+abolish	13
+constitution	11
+abolished	7
+defend	6
+away	5
+
+Gun ownership is necessary for hunting/sports-shooting
+arms	3
+right	3
+keep	2
+bear	2
+purpose	1
+wild	1
+communities	1
+serve	1
+firearms	1
+rural	1
+criminals	1
+
+Gun ownership promotes self protection
+right	28
+arms	25
+bear	23
+protect	20
+keep	15
+people	14
+weapons	9
+abolish	8
+defend	7
+dangerous	6
+property	5
+
+Banning guns would save lives
+saved	1
+lives	1
+Less	1
+Gun	1
+suicides	1
+guns	1
+
+Guns can fall into the wrong hands
+hands	11
+wrong	8
+guns	6
+keep	5
+abolish	4
+criminals	2
+only	2
+gun	2
+often	2
+get	2
+end	2
+
+Guns lead to accidental deaths
+people	7
+innocent	6
+lives	4
+violence	3
+gun	3
+accidents	3
+hurt	3
+killed	2
+weapons	2
+year	2
+guns	2
+
+Gun ownership allows for mass-shootings/general gun violence
+arms	15
+violence	13
+guns	11
+crime	9
+gun	9
+shootings	9
+weapons	7
+bear	7
+right	7
+people	6
+abolished	6
+
+Austerity cuts access to essential services
+people	3
+vulnerable	3
+benefits	2
+services	2
+austerity	2
+banks	1
+cut	1
+use	1
+food	1
+rely	1
+such	1
+
+Austerity extend recessions
+
+Austerity is unfair to the citizens
+regime	20
+austerity	15
+people	12
+poor	7
+government	6
+hurt	5
+adopt	5
+society	3
+unfairly	3
+such	3
+poorest	2
+
+Austerity results in lower growth
+austerity	10
+economy	9
+growth	5
+unemployment	5
+economic	4
+regime	4
+regimes	3
+hurt	2
+lower	2
+grow	2
+slow	1
+
+Austerity results in lower job creation
+jobs	2
+austerity	1
+circle	1
+vicious	1
+reduce	1
+need	1
+unemployment	1
+leads	1
+tend	1
+increase	1
+worker	1
+
+Austerity improves the economic measures
+economy	7
+austerity	6
+regime	6
+growth	2
+recover	2
+good	2
+help	2
+track	2
+Austerity	2
+countries	2
+helps	2
+
+Austerity is important in the long term
+austerity	4
+benefit	2
+cause	1
+time	1
+only	1
+regime	1
+future	1
+important	1
+make	1
+state	1
+survive	1
+
+Austerity is important to increase stability
+austerity	22
+regime	17
+country	6
+regimes	5
+government	4
+responsible	3
+public	3
+citizens	3
+people	2
+create	2
+helping	2
+
+Austerity is necessary to reduce deficits or pay debts
+austerity	64
+debt	43
+regime	23
+government	21
+reduce	15
+spending	14
+budget	14
+national	14
+country	14
+help	13
+pay	12
+
+Austerity regime is essential in economically troubled times
+austerity	29
+country	13
+regime	13
+economy	8
+economic	6
+financial	5
+necessary	5
+poverty	4
+spending	4
+recession	3
+only	3
+
+Affirmative action boosts diversity
+action	38
+affirmative	38
+end	10
+minorities	7
+helps	6
+society	6
+diverse	5
+Affirmative	5
+equal	5
+playing	4
+field	4
+
+Affirmative action is necessary to compensate for the past
+affirmative	3
+action	3
+deserve	3
+people	2
+rectify	1
+damage	1
+injustices	1
+necessary	1
+slavery	1
+right	1
+needed	1
+
+Affirmative action reduces discrimination
+action	29
+affirmative	25
+discrimination	11
+minorities	7
+helps	4
+needed	4
+discriminated	4
+protect	3
+groups	3
+end	3
+people	3
+
+Affirmative action diminishes the achievements of minorities
+affirmative	39
+action	32
+people	12
+qualified	12
+minorities	7
+end	6
+merit	5
+ahead	4
+Affirmative	4
+get	4
+gives	3
+
+Affirmative action is ineffective
+affirmative	2
+action	2
+job	2
+work	2
+longer	1
+necessary	1
+anymore	1
+needed	1
+really	1
+waste	1
+resources	1
+
+Affirmative action is not just
+affirmative	6
+action	6
+longer	3
+end	2
+think	2
+i	2
+needed	2
+respected	1
+sure	1
+n't	1
+necessary	1
+
+Affirmative action perpetuates prejudice
+action	36
+affirmative	33
+discrimination	14
+people	10
+end	10
+minorities	7
+form	7
+ended	6
+certain	5
+groups	5
+discriminatory	5
+
+Affirmative action reduces quality
+affirmative	5
+action	5
+merits	2
+end	2
+pick	1
+employers	1
+features	1
+quality	1
+ensuring	1
+ineffective	1
+education	1
+
